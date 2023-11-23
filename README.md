@@ -20,7 +20,7 @@ You can visit the public dashboard [here](https://public.tableau.com/app/profile
 3.Good ratings and lots of votes usually mean more money for movies.<br/>
 4.Most movies make a medium amount of money, with a few making a lot.<br/>
 5.The length of a movie doesn't always decide how well it's rated.<br/>
-6.Different age ratings show different things about movies, making it a mixed bag.<br/>
+6.Movie age ratings guide targeted content for audience preferences.<br/>
 
 
 ## Build From Sources and Run the Selenium Scraper
