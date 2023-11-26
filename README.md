@@ -1,4 +1,4 @@
-# IMDB_Movie_Data
+# IMDB_Movie_List_Insights
 
 ## Problem Statement
 The goal of this project is to get insights from a movie list in IMDB website.[this website](https://m.imdb.com/list/ls055559860/?page=1).<br/> 
