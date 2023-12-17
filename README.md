@@ -42,11 +42,10 @@ You can visit the public dashboard [here](https://public.tableau.com/app/profile
 2.Emphasize Quality Content: Highlight well-rated movies, showcasing the link between ratings and revenue.<br>
 3.Highlight Popular Movies: Showcase movies with good ratings and a significant number of votes.<br>
 4.Feature Medium-Budget Films: Include successful medium-budget films for a balanced selection.<br>
-5.Consider Movie Length: Provide information about movie duration for user preferences.<br>
-6.Incorporate Age Ratings: Guide users with age ratings to match their preferences.<br>
-7.Interactive Recommendations: Implement filters for ratings, revenue, and genre for user customization.<br>
-8.Include User Reviews: Integrate user reviews and comments for a social aspect.<br>
-9.Regular Updates: Keep the list dynamic with new releases and popular films.<br>
+5.Incorporate Age Ratings: Guide users with age ratings to match their preferences.<br>
+6.Interactive Recommendations: Implement filters for ratings, revenue, and genre for user customization.<br>
+7.Include User Reviews: Integrate user reviews and comments for a social aspect.<br>
+8.Regular Updates: Keep the list dynamic with new releases and popular films.<br>
 
 
 
