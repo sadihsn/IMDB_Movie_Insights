@@ -37,13 +37,13 @@ You can visit the public dashboard [here](https://public.tableau.com/app/profile
 5.The length of a movie doesn't always decide how well it's rated.<br/>
 6.Movie age ratings guide targeted content for audience preferences.<br/>
 
-##Recommendations:
-1.Explore Various Ratings: Try movies with different ratings for a diverse viewing experience.
-2.Choose Well-Rated Films: Prioritize movies with higher ratings for a more satisfying watch.
-3.Engage and Review: Support movies by rating and reviewing them to influence the community.
-4.Discover Niche Content: Explore unique genres and smaller films for fresh perspectives.
-5.Support Medium-Budget Films: Back smaller productions, acknowledging that most movies earn a moderate amount.
-6.Mind Age Ratings: Consider age ratings to align movies with your preferences and values.
+## Recommendations:<br>
+1.Explore Various Ratings: Try movies with different ratings for a diverse viewing experience.<br>
+2.Choose Well-Rated Films: Prioritize movies with higher ratings for a more satisfying watch.<br>
+3.Engage and Review: Support movies by rating and reviewing them to influence the community.<br>
+4.Discover Niche Content: Explore unique genres and smaller films for fresh perspectives.<br>
+5.Support Medium-Budget Films: Back smaller productions, acknowledging that most movies earn a moderate amount.<br>
+6.Mind Age Ratings: Consider age ratings to align movies with your preferences and values.<br>
 
 ## Build From Sources and Run the Selenium Scraper
 1. Clone the repo
