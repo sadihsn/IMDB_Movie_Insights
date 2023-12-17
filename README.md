@@ -38,12 +38,18 @@ You can visit the public dashboard [here](https://public.tableau.com/app/profile
 6.Movie age ratings guide targeted content for audience preferences.<br/>
 
 ## Recommendations:<br>
-1.Explore Various Ratings: Try movies with different ratings for a diverse viewing experience.<br>
-2.Choose Well-Rated Films: Prioritize movies with higher ratings for a more satisfying watch.<br>
-3.Engage and Review: Support movies by rating and reviewing them to influence the community.<br>
-4.Discover Niche Content: Explore unique genres and smaller films for fresh perspectives.<br>
-5.Support Medium-Budget Films: Back smaller productions, acknowledging that most movies earn a moderate amount.<br>
-6.Mind Age Ratings: Consider age ratings to align movies with your preferences and values.<br>
+1.Diversify Ratings and Genres: Include movies with various ratings for a broader audience.<br>
+2.Emphasize Quality Content: Highlight well-rated movies, showcasing the link between ratings and revenue.<br>
+3.Highlight Popular Movies: Showcase movies with good ratings and a significant number of votes.<br>
+4.Feature Medium-Budget Films: Include successful medium-budget films for a balanced selection.<br>
+5.Consider Movie Length: Provide information about movie duration for user preferences.<br>
+6.Incorporate Age Ratings: Guide users with age ratings to match their preferences.<br>
+7.Interactive Recommendations: Implement filters for ratings, revenue, and genre for user customization.<br>
+8.Include User Reviews: Integrate user reviews and comments for a social aspect.<br>
+9.Regular Updates: Keep the list dynamic with new releases and popular films.<br>
+
+
+
 
 ## Build From Sources and Run the Selenium Scraper
 1. Clone the repo
