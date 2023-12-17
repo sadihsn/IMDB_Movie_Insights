@@ -7,21 +7,21 @@ Later we utilized the scraped data to understand the following movie data and co
 1. Movie Ratings Distributions.<br>
    Identify the most common movie rating in our dataset.
  <img src = "viz_images/1.png" width="450" height="250">
-2. Rating vs. Gross Profit.
+2. Rating vs. Gross Profit.<br>
   Determine if there is a correlation between movie ratings and gross profit.
  <img src = "viz_images/2.png" width="450" height="250">
-3. Gross Profit vs Rating vs Votes.
+3. Gross Profit vs Rating vs Votes.<br>
    Explore the relationship between the number of votes, movie rating, and
 gross profit.
  <img src = "viz_images/3.png" width="450" height="250">
-4. Gross Profit Distribution.
+4. Gross Profit Distribution.<br>
    Identify the category or segment in the tree map with the highest gross profit.
  <img src = "viz_images/4.png" width="450" height="250">
-5. Rating and Duration.
+5. Rating and Duration.<br>
    Examine if there is a noticeable relationship between movie rating and
 duration.
  <img src = "viz_images/5.png" width="450" height="250">
-6. Name of Movies by Age Rating.
+6. Name of Movies by Age Rating.<br>
    Identify the most common age ratings in our dataset and explore associated
 movie names.
  <img src = "viz_images/6.png" width="450" height="250">
