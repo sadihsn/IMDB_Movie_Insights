@@ -4,7 +4,7 @@
 The goal of this project is to get insights from a movie list in IMDB website.[this website](https://m.imdb.com/list/ls055559860/?page=1).<br/> 
 Later we utilized the scraped data to understand the following movie data and correlations using Tableau Dashboard: 
 
-1. Movie Ratings Distributions.
+1. Movie Ratings Distributions.<br/>
    Identify the most common movie rating in our dataset.
  <img src = "viz_images/1.png" width="450" height="250">
 2. Rating vs. Gross Profit.
