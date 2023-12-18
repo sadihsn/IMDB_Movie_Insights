@@ -8,24 +8,24 @@ I have used google sheets and python to clean the messy dataset,after cleaning t
 
 Later we utilized the scraped data to understand the following movie data and correlations using Tableau Dashboard: 
 
-1. Movie Ratings Distributions.<br>
+1. Movie Ratings Distributions.(Histogram)<br>
    Identify the most common movie rating in our dataset.
  <img src = "viz_images/1.png" width="450" height="250">
-2. Rating vs. Gross Profit.<br>
+2. Rating vs. Gross Profit.(ScatterPlot)<br>
   Determine if there is a correlation between movie ratings and gross profit.
  <img src = "viz_images/2.png" width="450" height="250">
-3. Gross Profit vs Rating vs Votes.<br>
+3. Gross Profit vs Rating vs Votes.(Horizontal Bars)<br>
    Explore the relationship between the number of votes, movie rating, and
 gross profit.
  <img src = "viz_images/3.png" width="450" height="250">
-4. Gross Profit Distribution.<br>
+4. Gross Profit Distribution.(Tree map)<br>
    Identify the category or segment in the tree map with the highest gross profit.
  <img src = "viz_images/4.png" width="450" height="250">
-5. Rating and Duration.<br>
+5. Rating and Duration.(Gantt View)<br>
    Examine if there is a noticeable relationship between movie rating and
 duration.
  <img src = "viz_images/5.png" width="450" height="250">
-6. Name of Movies by Age Rating.<br>
+6. Name of Movies by Age Rating.(Horizontal Bars)<br>
    Identify the most common age ratings in our dataset and explore associated
 movie names.
  <img src = "viz_images/6.png" width="450" height="250">
