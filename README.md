@@ -1,4 +1,4 @@
-# IMDB_Movie_Insights
+# IMDB_Movie_Insights(andreea_nastasa)
 
 ## Problem Statement
 The goal of this project is to get insights from a movie list in IMDB website.[Link](https://m.imdb.com/list/ls055559860/?page=1).<br/> 
