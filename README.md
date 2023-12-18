@@ -42,7 +42,7 @@ You can visit the public dashboard [here](https://public.tableau.com/app/profile
 ## Build From Sources and Run the Selenium Scraper
 1. Clone the repo
 ```bash
-git clone https://github.com/sadihsn97/IMDB_Movie_List_Insights.git
+git clone https://github.com/sadihsn97/IMDB_Movie_Insights.git
 ```
 2. Intialize and activate virtual environment
 ```bash
