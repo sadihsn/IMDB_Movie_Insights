@@ -72,7 +72,7 @@ def main():
     driver.quit()
 
     df = pd.DataFrame(data=movie_data, columns=columns)
-    df.to_csv("Top_IMDB_Movies_insights.csv", index=False)
+    df.to_csv("IMDB_Movies_insights.csv", index=False)
 
 if __name__ == "__main__":
     main()
