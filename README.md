@@ -35,18 +35,7 @@ You can visit the public dashboard [here](https://public.tableau.com/app/profile
 3.Good ratings and lots of votes usually mean more money for movies.<br/>
 4.Most movies make a medium amount of money, with a few making a lot.<br/>
 5.The length of a movie doesn't always decide how well it's rated.<br/>
-6.Movie age ratings guide targeted content for audience preferences.<br/>
-
-## Recommendations:<br>
-1.Diversify Ratings and Genres: Include movies with various ratings for a broader audience.<br>
-2.Emphasize Quality Content: Highlight well-rated movies, showcasing the link between ratings and revenue.<br>
-3.Highlight Popular Movies: Showcase movies with good ratings and a significant number of votes.<br>
-4.Feature Medium-Budget Films: Include successful medium-budget films for a balanced selection.<br>
-5.Incorporate Age Ratings: Guide users with age ratings to match their preferences.<br>
-6.Interactive Recommendations: Implement filters for ratings, revenue, and genre for user customization.<br>
-7.Include User Reviews: Integrate user reviews and comments for a social aspect.<br>
-8.Regular Updates: Keep the list dynamic with new releases and popular films.<br>
-
+6.Based on age ratings movies can be categorized for target audiences.<br/>
 
 
 
