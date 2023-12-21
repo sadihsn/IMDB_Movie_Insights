@@ -64,6 +64,6 @@ python web_scraping_IMDB/scraper.py --chromedriver_path <path_to_chromedriver>
 ```
 6. To generate a csv file you can use 
    ```
-    df.to_csv("IMDB_Movies_insights.csv", index=False)
+    df.to_csv("IMDB_Movies_Insights.csv", index=False)
    ```
 
