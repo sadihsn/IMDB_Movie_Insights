@@ -34,7 +34,7 @@ You can visit the public dashboard [here](https://public.tableau.com/app/profile
 1.Ratings saw a consistent rise post-2000, peaked in 2014, and then declined, signaling a noteworthy shift in audience response or industry dynamics.<br/>
 2.Most movies fall within the 90 to 110-minutes range, showing a clear preference that aligns with audience tastes and market demands.<br/>
 3.No clear correlation between higher ratings and greater profits, emphasizing the need for a nuanced understanding of factors influencing financial success.<br/>
-4.A substantial number of movies cater to adults (Age > 13), reflecting a prevailing trend towards mature content.<br/>
+4.A substantial number of movies cater to Teen/Adults (Age > 13), reflecting a prevailing trend towards mature content.<br/>
 5.The dataset is concentrated between 2000 and 2020, highlighting a significant period of cinematic output.<br/>
 6.Identifies movies with the highest vote counts, providing insights into audience favorites and significant public engagement within the dataset.<br/>
 
