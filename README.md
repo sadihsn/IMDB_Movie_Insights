@@ -2,44 +2,41 @@
 
 ## Problem Statement
 The goal of this project is to get insights from a movie list in IMDB website.[Link](https://m.imdb.com/list/ls055559860/?page=1).<br/> 
-The scraped data was from a movie list created by andreea_nastasa based on his/her personal preferences.Since I am interested in film industry,I have tried to find out Insights about movies from a large dataset.<br>
+The scraped data was from a movie list created by andreea_nastasa based on his/her personal preferences.I have explored a large set of data to learn important things about movies because I'm really interested in the whole movie scene.<br>
 
-I have used google sheets and python to clean the messy dataset,after cleaning the data set contains columns such as 'movie_name','Year','Age','Duration','Rating','Gross Profit',and 'Votes' with 1965 rows.<br>
+Used google sheets and python to clean the messy dataset,after cleaning the data set contains columns such as 'movie_name','Year','Age','Duration','Rating','Gross Profit',and 'Votes' with 1965 rows.<br>
 
 Later we utilized the scraped data to understand the following movie data and correlations using Tableau Dashboard: 
 
-1. Movie Ratings Distributions.(Histogram)<br>
-   Identify the most common movie rating in our dataset.
+1. Movie Ratings Over the Years.(Line graph)<br>
+   Illustrates how movie ratings have evolved across different years.
  <img src = "viz_images/1.png" width="450" height="250">
-2. Rating vs. Gross Profit.(ScatterPlot)<br>
-  Determine if there is a correlation between movie ratings and gross profit.
+2. Movie Duration Distribution.(Histogram)<br>
+   Displays the frequency distribution of movie durations, showing the range and frequency of different durations.
  <img src = "viz_images/2.png" width="450" height="250">
-3. Gross Profit vs Rating vs Votes.(Horizontal Bars)<br>
-   Explore the relationship between the number of votes, movie rating, and
-gross profit.
+3. Relationship Between Ratings and Gross Profit.(Scatter Plots)<br>
+   Reveals the correlation between movie ratings and their corresponding gross profits through individual data points.
  <img src = "viz_images/3.png" width="450" height="250">
-4. Gross Profit Distribution.(Tree map)<br>
-   Identify the category or segment in the tree map with the highest gross profit.
+4. Average Ratings by Age Group.(Bar Chart)<br>
+   Depicts the average movie ratings for different age groups, providing a summary of audience preferences.
  <img src = "viz_images/4.png" width="450" height="250">
-5. Rating and Duration.(Gantt View)<br>
-   Examine if there is a noticeable relationship between movie rating and
-duration.
+5. Movie Count by Year.(Bar Chart)<br>
+   Shows the number of movies released each year, providing an overview of the industry's output over time.
  <img src = "viz_images/5.png" width="450" height="250">
-6. Name of Movies by Age Rating.(Horizontal Bars)<br>
-   Identify the most common age ratings in our dataset and explore associated
-movie names.
+6. Votes Distribution.(Tree Maps)<br>
+  Visualizes the distribution of votes across different categories,offering insights into audience engagement and preferences.
  <img src = "viz_images/6.png" width="450" height="250">
 
-You can visit the public dashboard [here](https://public.tableau.com/app/profile/sadi.hossain/viz/IMDBMovieListInsights/Dashboard1). 
+You can visit the public dashboard [here](https://public.tableau.com/app/profile/sadi.hossain/viz/IMDB_Movie_Insights/Dashboard1). 
 
-## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/sadi.hossain/viz/IMDBMovieListInsights/Dashboard1)
+## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/sadi.hossain/viz/IMDB_Movie_Insights/Dashboard1)
 
-1.Most movies get ratings in the middle; not too high or too low.<br/>
-2.Better-rated movies often make more money.<br/>
-3.Good ratings and lots of votes usually mean more money for movies.<br/>
-4.Most movies make a medium amount of money, with a few making a lot.<br/>
-5.The length of a movie doesn't always decide how well it's rated.<br/>
-6.Based on age ratings movies can be categorized for target audiences.<br/>
+1.Ratings saw a consistent rise post-2000, peaked in 2014, and then declined, signaling a noteworthy shift in audience response or industry dynamics.<br/>
+2.Movies with durations of 90 to 110 minutes dominate, indicating a strategic alignment with audience preferences and market demands.<br/>
+3.No clear correlation between higher ratings and greater profit, emphasizing the need for a nuanced understanding of factors influencing financial success.<br/>
+4.A substantial number of movies cater to adults (age > 13), reflecting a prevailing trend towards mature content.<br/>
+5.The dataset is concentrated between 2000 and 2020, highlighting a significant period of cinematic output.<br/>
+6.Identifies movies with the highest vote counts, providing insights into audience favorites and significant public engagement within the dataset..<br/>
 
 
 
