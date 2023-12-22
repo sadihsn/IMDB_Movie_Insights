@@ -36,7 +36,7 @@ You can visit the public dashboard [here](https://public.tableau.com/app/profile
 3.No clear correlation between higher ratings and greater profit, emphasizing the need for a nuanced understanding of factors influencing financial success.<br/>
 4.A substantial number of movies cater to adults (age > 13), reflecting a prevailing trend towards mature content.<br/>
 5.The dataset is concentrated between 2000 and 2020, highlighting a significant period of cinematic output.<br/>
-6.Identifies movies with the highest vote counts, providing insights into audience favorites and significant public engagement within the dataset..<br/>
+6.Identifies movies with the highest vote counts, providing insights into audience favorites and significant public engagement within the dataset.<br/>
 
 
 
