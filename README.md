@@ -4,7 +4,7 @@
 The goal of this project is to get insights from a movie list in IMDB website.[Link](https://m.imdb.com/list/ls055559860/?page=1).<br/> 
 The scraped data was from a movie list created by andreea_nastasa based on his/her personal preferences.I have explored a large set of data to learn important things about movies because I'm really interested in the whole movie scene.<br>
 
-Used google sheets and python to clean the messy dataset,after cleaning the data set contains columns such as 'movie_name','Year','Age','Duration','Rating','Gross Profit',and 'Votes' with 1965 rows.<br>
+Used google sheets and python to clean the messy dataset and missing values,after cleaning the data set contains columns such as 'movie_name','Year','Age','Duration','Rating','Gross Profit',and 'Votes' with 1965 rows.Initial scraped data contains 4900 records<br>
 
 Later we utilized the scraped data to understand the following movie data and correlations using Tableau Dashboard: 
 
