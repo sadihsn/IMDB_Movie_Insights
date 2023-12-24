@@ -43,7 +43,7 @@ You can visit the public dashboard [here](https://public.tableau.com/app/profile
 
 1. Average Movie Ratings Throughout The Years: The line graph depicts a fluctuating trend, with a notable decline initially, subsequent intermittent rises, and a peak in 2020.<br/>
 2. Movie Duration Distribution: Illustrates that the majority of movies in the dataset have durations ranging from 90 to 110 minutes.<br/>
-3. Average Movie Duration Throughout The Years: Initiates with an upward trajectory but predominantly follows a decreasing trend over the years, punctuated by two notable increases.<br/>
+3. Average Movie Duration Throughout The Years: Starts going up at first but then mostly goes down over the years, with two noticeable increases in between.<br/>
 4. Relationship Between Ratings and Gross Profit: Indicates that high ratings don't consistently translate to high profits, with only a few movies surpassing a gross profit of 500 million.<br/>
 5. Movie Count by Year: Highlights that the dataset is concentrated in the years 2000 to 2020, suggesting a prevalence of movies from this time frame.<br/>
 6. Movie Target Age Group: Reveals that the majority of movies in the dataset are categorized as suitable for a Teen/Adult audience.<br/>
