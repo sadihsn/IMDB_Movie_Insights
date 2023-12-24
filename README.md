@@ -37,9 +37,9 @@ Later we utilized the scraped data to understand the following movie data and co
    Visualizes the distribution of votes for the top 20 movies, with each bubble representing a movie and its size indicating the number of votes received.<br>
     <img src = "viz_images/8.png" width="450" height="250">
 
-You can visit the public dashboard [here](https://public.tableau.com/app/profile/sadi.hossain/viz/IMDB_Movie_Insights/Dashboard1). 
+You can visit the public dashboard [here](https://public.tableau.com/app/profile/sadi.hossain/viz/IMDBMoviesInsights/Dashboard1#1). 
 
-## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/sadi.hossain/viz/IMDB_Movie_Insights/Dashboard1)
+## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/sadi.hossain/viz/IMDBMoviesInsights/Dashboard1#1)
 
 1. Ratings saw a consistent rise post-2000, peaked in 2014, and then declined, signaling a noteworthy shift in audience response or industry dynamics.<br/>
 2. Most movies fall within the 90 to 110-minutes range, showing a clear preference that aligns with audience tastes and market demands.<br/>
