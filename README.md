@@ -6,26 +6,36 @@ The scraped data was from a movie list created by andreea_nastasa based on his/h
 
 Initial scraped data contains 4900 records.Used google sheets and python to clean the messy dataset and handling missing values,after cleaning the data set contains columns such as 'movie_name','Year','Age','Duration','Rating','Gross Profit',and 'Votes' with 1965 rows.<br>
 
-Later we utilized the scraped data to understand the following movie data and correlations using Tableau Dashboard: 
+Later we utilized the scraped data to understand the following movie data and correlations using Tableau Dashboard:<br>
 
-1. Movie Ratings Over the Years.(Line graph)<br>
-   Illustrates how movie ratings have evolved across different years.
+## Dashboard 1 <br>
+
+1. Average Movie Ratings Throughout The Years (Line chart)<br>
+   Illustrates the trend in average movie ratings over different years using a line chart.
  <img src = "viz_images/1.png" width="450" height="250">
-2. Movie Duration Distribution.(Histogram)<br>
+2. Movie Duration Distribution (Histogram)<br>
    Displays the frequency distribution of movie durations, showing the range and frequency of different durations.
  <img src = "viz_images/2.png" width="450" height="250">
-3. Relationship Between Ratings and Gross Profit.(Scatter Plots)<br>
-   Reveals the correlation between movie ratings and their corresponding gross profits through individual data points.
+3. Average Movie Duration Throughout The Years (Line chart)<br>
+  Shows how the average duration of movies has changed over the years using a line chart.
  <img src = "viz_images/3.png" width="450" height="250">
-4. Average Ratings by Age Group.(Bar Chart)<br>
-   Depicts the average movie ratings for different age groups, providing a summary of audience preferences.
+4. Relationship Between Ratings and Gross Profit (Scatter Plot)<br>
+   Visualizes the correlation between movie ratings and gross profit, indicating any discernible patterns or trends using a scatter plot.
  <img src = "viz_images/4.png" width="450" height="250">
 5. Movie Count by Year.(Bar Chart)<br>
-   Shows the number of movies released each year, providing an overview of the industry's output over time.
+   Represents the number of movies released each year, offering a bar chart overview of movie count trends over time.
  <img src = "viz_images/5.png" width="450" height="250">
-6. Votes Distribution.(Tree Maps)<br>
-  Visualizes the distribution of votes across different categories,offering insights into audience engagement and preferences.
- <img src = "viz_images/6.png" width="450" height="250">
+6. Movie Target Age Group (Child < 13 < Teen/Adult) (Text table)<br>
+   Summarizes movies into target age groups and displays the count of movies for each group using a text table.
+ <img src = "viz_images/6.png" width="200" height="250">
+
+ ## Dashboard 2 <br>
+7. Movie Rating Distribution (Histogram)<br>
+   Illustrates the distribution of movie ratings, showcasing the frequency of different rating ranges using a histogram.
+    <img src = "viz_images/7.png" width="450" height="250">
+8. Votes Distribution Top 20 Movies (Packed Bubbles)<br>
+   Visualizes the distribution of votes for the top 20 movies, with each bubble representing a movie and its size indicating the number of votes received.
+    <img src = "viz_images/8.png" width="450" height="250">
 
 You can visit the public dashboard [here](https://public.tableau.com/app/profile/sadi.hossain/viz/IMDB_Movie_Insights/Dashboard1). 
 
