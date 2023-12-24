@@ -31,7 +31,7 @@ Later we utilized the scraped data to understand the following movie data and co
 
  ## Dashboard 2 <br>
 7. Movie Rating Distribution (Histogram)<br>
-   Illustrates the distribution of movie ratings, showcasing the frequency of different rating ranges using a histogram.
+   Illustrates the distribution of movie ratings, showcasing the frequency of different rating ranges using a histogram.<br>
     <img src = "viz_images/7.png" width="450" height="250">
 8. Votes Distribution Top 20 Movies (Packed Bubbles)<br>
    Visualizes the distribution of votes for the top 20 movies, with each bubble representing a movie and its size indicating the number of votes received.<br>
