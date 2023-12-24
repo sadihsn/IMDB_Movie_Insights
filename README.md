@@ -10,30 +10,30 @@ Later we utilized the scraped data to understand the following movie data and co
 
 ## Dashboard 1 <br>
 
-1. Average Movie Ratings Throughout The Years (Line chart)<br>
+1. Average Movie Ratings Throughout The Years (Line chart):<br>
    Illustrates the trend in average movie ratings over different years using a line chart.
  <img src = "viz_images/1.png" width="450" height="250">
-2. Movie Duration Distribution (Histogram)<br>
+2. Movie Duration Distribution (Histogram):<br>
    Displays the frequency distribution of movie durations, showing the range and frequency of different durations.
  <img src = "viz_images/2.png" width="450" height="250">
-3. Average Movie Duration Throughout The Years (Line chart)<br>
+3. Average Movie Duration Throughout The Years (Line chart):<br>
   Shows how the average duration of movies has changed over the years using a line chart.
  <img src = "viz_images/3.png" width="450" height="250">
-4. Relationship Between Ratings and Gross Profit (Scatter Plot)<br>
+4. Relationship Between Ratings and Gross Profit (Scatter Plot):<br>
    Visualizes the correlation between movie ratings and gross profit, indicating any discernible patterns or trends using a scatter plot.
  <img src = "viz_images/4.png" width="450" height="250">
-5. Movie Count by Year.(Bar Chart)<br>
+5. Movie Count by Year.(Bar Chart):<br>
    Represents the number of movies released each year, offering a bar chart overview of movie count trends over time.
  <img src = "viz_images/5.png" width="450" height="250">
-6. Movie Target Age Group (Child < 13 < Teen/Adult) (Text table)<br>
+6. Movie Target Age Group (Child < 13 < Teen/Adult) (Text table):<br>
    Summarizes movies into target age groups and displays the count of movies for each group using a text table.
  <img src = "viz_images/6.png" width="200" height="250">
 
  ## Dashboard 2 <br>
-7. Movie Rating Distribution (Histogram)<br>
+7. Movie Rating Distribution (Histogram):<br>
    Illustrates the distribution of movie ratings, showcasing the frequency of different rating ranges using a histogram.<br>
     <img src = "viz_images/7.png" width="450" height="250">
-8. Votes Distribution Top 20 Movies (Packed Bubbles)<br>
+8. Votes Distribution Top 20 Movies (Packed Bubbles):<br>
    Visualizes the distribution of votes for the top 20 movies, with each bubble representing a movie and its size indicating the number of votes received.<br>
     <img src = "viz_images/8.png" width="450" height="250">
 
